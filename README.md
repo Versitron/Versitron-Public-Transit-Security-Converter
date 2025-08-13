@@ -27,19 +27,20 @@ This **fiber media converter** is ideal for:
 
 ---
 
-## Technical Specifications
+## VERSITRON Defense Fiber Optic Converter – Technical Specifications
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON Public Transit Security Converter |
-| Fiber Type | Multimode to Singlemode |
-| Connectors | ST to SC fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC |
-| Operating Temp | -10°C to 60°C |
+| Specification       | Description |
+|---------------------|-------------|
+| **Model**           | VERSITRON Defense Fiber Optic Converter |
+| **Fiber Type**      | Singlemode / Multimode |
+| **Connectors**      | LC / SC / ST (depending on model) |
+| **Wavelength**      | 1310nm |
+| **Distance Support**| Up to 20 km |
+| **Speed**           | 10/100/1000Base-TX to 100/1000Base-FX |
+| **Duplex Mode**     | Full-Duplex / Half-Duplex |
+| **Power**           | External 5VDC |
+| **Operating Temp**  | -10°C to 60°C |
+
 
 ---
 
